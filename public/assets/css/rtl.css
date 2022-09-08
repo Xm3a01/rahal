@@ -1,0 +1,171 @@
+@font-face {
+  font-family:DIN NEXT™ ARABIC REGULAR;
+  src: url(DINARABICREGULAR.otf);
+}
+@font-face {
+  font-family:DIN NEXT™ ARABIC BOLD;
+  src: url(DINARABICBOLD.otf);
+}
+@font-face {
+  font-family:DIN NEXT™ ARABIC MEDIUM;
+  src: url(DINARABICMEDIUM.otf);
+}
+.mr-6, .mx-6 {
+    margin-left: 2.5rem !important;
+    margin-right: 0!important;
+}.ml-3, .mx-3 {
+    margin-right: 1rem !important;
+    margin-left: auto!important;
+}.mb-4 {
+    direction: rtl;
+    text-align: right;
+}
+body{direction:rtl;text-align:right;}.u-hamburger {
+    margin-left: 1rem !important;
+    margin-right: auto!important;
+    float: left;
+    font-size: inherit;
+    line-height: 0;
+    padding: 0.25rem;
+}
+textarea,label,input,.pagination-v2-arrow-color,button,.text-white,text-gray-1,p,a,li,.text-gray-1,.text-color-13,input,.shopping-cart .media-body span,.bootstrap-select .dropdown-toggle .filter-option{font-family:DIN NEXT™ ARABIC REGULAR!important;}
+.font-weight-normal,h1,h2,h3,h4,h5,h6,a.font-weight-bold.d-flex.text-lh-1.mb-md-2.ml-2{color:#D3675B;font-family:DIN NEXT™ ARABIC BOLD!important;}
+a.font-weight-bold.d-flex.text-lh-1.mb-md-2.ml-2{padding: 1rem 0;}
+.mr-md-3, .mx-md-3 {
+    margin-left: 1rem !important;
+    margin-right: 0rem !important;
+}
+.text-left {
+    text-align: right !important;
+}.details2 .text-gray-6 {
+    color: #00dffc !important;
+}.details2 .height-60 {
+    height: 3.95rem;
+}
+.bootstrap-select .dropdown-toggle .filter-option{
+    text-align: right !important;
+}
+.mr-3, .mx-3 {
+    margin-left: 1rem !important;
+    margin-right: 0rem !important;
+}
+.dropdown-custom .dropdown-toggle::after {
+margin-right: auto !important;
+margin-left: 0 !important;
+}
+
+.u-header__nav-link-toggle::after {
+    display: inline-block;
+    font-family: "Font Awesome 5 Free";
+    font-size: 14px;
+    font-weight: 900;
+    content: "\f107";
+    margin-right: 0.75rem;
+    transition: 0.3s ease;
+}
+
+.u-header__navbar-body, .u-header__navbar-nav {
+    margin-right: auto;
+    margin-left: 0
+;
+}
+.space-xl-9, .space-top-xl-9 {
+    padding-top: 10rem !important;
+}.left-0 {
+    right: auto;
+    left: 0;
+}span.ml-2.text-white {
+    display: none;
+}
+.ml-auto, .mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}.right-0 {
+    left: 0;
+    right: 0;
+}span.font-size-14.text-gray-1.ml-2 {
+    float: left;
+}.mr-4, .mx-4 {
+    margin-left: 1.5rem !important;
+    margin-right:0 !important;
+}
+.cta .action-btns li {
+    margin-left: 1.33333rem;
+}
+.feature-list-wrapper .icon {
+    margin-right:0;
+    margin-left: 1.33333rem;
+}.bootstrap-select .dropdown-menu.inner {
+text-align: right;}
+
+.dropdown-menu-right {
+    right: 0;
+    left: 0!important;
+    right: auto!important;
+}.card-header:first-child {
+    text-align: right;
+    border-radius: calc(0.3125rem - 1px) calc(0.3125rem - 1px) 0 0;
+}.shopping-cart .media-body span {
+    text-align: right;
+    line-height: 1;
+}.right-0 {
+    left: 0;
+    right: auto;
+}.ml-2, .mx-2 {
+    margin-right: 0.5rem !important;
+    margin-left: auto;
+}.pr-xl-14, .px-xl-14 {
+    padding-right: 0!important;
+    margin-left: 0!important;
+}.bg-pink {
+    background-color: #fff!important;
+}.mr-2, .mx-2 {
+    margin-left: 0.5rem !important;
+    margin-right: auto;
+}.right-0 {
+    left: 6px;
+    right: 6px;
+}.close.close-rounded {
+    font-size: 0.75rem;
+    border: none;
+    border-radius: 50%;
+    padding: 0.656rem;
+    float: left;
+    text-align: left;
+}
+.button-fill-primary {
+float: right;}
+.hero-style-four .slider-arrows {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 60px;
+    right: auto;
+    z-index: 2;
+    padding: 5px;
+}.footer .text-gray-1, .footer .btn-icon {
+    text-align: center;
+    margin: auto;
+    color: #fff!important;
+}a.font-weight-bold.d-flex.text-lh-1.mb-md-2.ml-2 {
+    padding: 0;
+}span.badge.badge-pill.badge-primary.py-1.px-2.font-size-14.border-radius-3.font-weight-normal {
+    float: left;
+}.right-0 {
+    right: 0;
+    left: auto;
+}.media{direction:rtl;text-align:right;}
+.js-fancybox ,.js-slick-carousel,.js-slick-carousel,.slick-list{direction:ltr;}
+.hero-style-four .hero4-content h1{text-align:right;}
+
+
+.footer .text-gray-1, .footer .btn-icon {
+    text-align: right;
+    margin: auto;
+    color: #fff!important;
+}h4.h6.font-weight-bold.mb-2.mb-xl-4 {
+    color: #d3675b;    font-family: DIN NEXT™ ARABIC BOLD!important;
+}.unique span{
+    font-family: DIN NEXT™ ARABIC BOLD!important;
+}
